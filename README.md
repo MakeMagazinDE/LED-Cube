@@ -9,7 +9,7 @@ Maker Media GmbH
 ### Neopixelwürfel für farbige 3D-Animationen
 
 Eine große Menge LEDs würfelförmig zusammenzulöten ist eine beliebte Geduldsprobe, fasziniert aber durch räumliche Lichteffekte. Mein LED-Würfel kann nicht nur beliebige Farben zeigen, mit ihm sind auch 3D-Animationen darstellbar.
-![Picture](https://github.com/heise/LED-Cube/blob/master/Cube.jpg)
+![Picture](https://github.com/MakeMagazinDE/LED-Cube/blob/master/Cube.jpg)
 
 Den vollständigen Artikel mit der Bauanleitung gibt es auf der **[Make-Webseite](https://heise.de/-4484515)** zu lesen.
 Hier gibt es den Code für die verschiedenen Demoprogramme und Mikrocontroller-Plattformen zum Download.
