@@ -2,7 +2,7 @@
 String filn = "NPW_esp8266_V2.ino"; 
 /*  
  *  ###########################################
- *  Neopixelwürfel für Arduino Mega2560 
+ *  Neopixelwürfel für ESP8266 Modelle 01, 08S, 12F oder ähnlich  
  *  
  *  Das Programm startet im Demo Modus und zeigt vorhandene Figuren und Animationen
  *  
